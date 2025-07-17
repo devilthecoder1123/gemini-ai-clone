@@ -4,7 +4,7 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ## 🚀 Live Demo
 
-[View Live Application](https://your-netlify-app-name.netlify.app)
+[View Live Application](https://gemini-ai-clonefk.netlify.app/)
 
 ## ✨ Features
 
@@ -65,7 +65,6 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
    ```bash
    git clone https://github.com/yourusername/gemini-frontend-clone.git
-   cd gemini-frontend-clone
    ```
 
 2. **Install dependencies**
